@@ -13,3 +13,5 @@
 - Tengo un gato que se llama Ragnaros una gata que se llama Elune y un perro que se llama Apolo
 - Estoy cursando mi cuarto cuatrimestre en la UNAHUR
 - Actualmente trabajo en un kiosco como encargado
+
+![Logo UNAHUR](./UNAHUR.png)
